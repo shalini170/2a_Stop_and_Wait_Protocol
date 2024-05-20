@@ -39,8 +39,12 @@ while True:
 ```
 ## OUTPUT
 client:
+
 ![image](https://github.com/shalini170/2a_Stop_and_Wait_Protocol/assets/151901983/b649e640-5186-4529-b206-8ad8d964b448)
+
 server:
+
+
 ![image](https://github.com/shalini170/2a_Stop_and_Wait_Protocol/assets/151901983/1e9fa45b-c3ae-43a0-86e3-5b8a42ab0ca1)
 
 ## RESULT
